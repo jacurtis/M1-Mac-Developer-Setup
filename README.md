@@ -68,7 +68,7 @@ You will need to install this with a simple git clone command and running instal
 
 ✅ Python  
 ✅ PHP  
-✅   
+✅ Go  
 ✅  
 ✅  
 ✅  
@@ -80,12 +80,23 @@ You will need to install this with a simple git clone command and running instal
 ✅ NPM (JS)  
 ✅ Yarn (JS)  
 
+## Databases
+
+✅ MySQL   
+✅ Redis
+
+## Docker
+
+Docker does so much that I didn't really know how to categorize it other than making it a category in and of itself.
+
+In addition, Docker is one of the most confusing applications for Apple Silicon macs. Apple started by showing it off during the announcement keynote event. Unfortunately no one actually told the Docker company about this, so they were pretty shocked to see it working. Once Apple Silicon macs became available, it turns out that it wasn't actually working after all.
+
 ## CLI Dev Tools
 
 ✅ Terminal.app  
 ✅ iTerm2  
 ✅ cURL
-✅ 
+✅ Laravel Valet
 
 ## Web Browsers
 
@@ -96,7 +107,8 @@ You will need to install this with a simple git clone command and running instal
 
 ## Productivity
 
-✅ Microsoft Office (Except Teams)  
+✅ Microsoft Office 365 (Except Teams)  
 ✅ Slack  
 ☑️ Microsoft Teams  
+☑️ Discord  
 ⚠ 
